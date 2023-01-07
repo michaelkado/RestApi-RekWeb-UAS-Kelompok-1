@@ -1,3 +1,15 @@
+## RestApi-Rekweb-UAS-Kelompok1
+Ini adalah dashboard rekweb uas kelompok 1 dengan anggota
+
+1. Okta Ferilianty (21210078)
+2. Michael Anggun Kado P. (201210057)
+3. Tiara Ramandhita Sugiyarti (201210056) 
+4. Akbar Sidiq Kurniawan (20121062)
+5. Alifah Maya Kinanti Putri (20210065)
+
+PHP Yang Digunakan Adalah PHP 8.1.6 Versi laravel 9 
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
